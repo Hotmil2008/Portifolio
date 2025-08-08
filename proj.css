@@ -15,11 +15,18 @@ header{
     background-color: rgba(134, 76, 161, 0.699);
     padding: 17px;
 }
+h1{
+    margin: 15px;
+    color: rgb(95, 42, 42);
+    text-align: center;
+}
+
 .foto {
     all:unset;
     width: 100px;
     transition: width 0.5s;
 }
+
 a{
     text-decoration: none;
     padding: 10px;
